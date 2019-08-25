@@ -12,7 +12,7 @@ This project is a part of the learning milestone of a Udemy course delivered by 
 You have been hired as a consultant to a start-up that is running a targetted marketing ads on facebook. The company wants to anaylze customer behaviour by predicting which customer clicks on the advertisement. 
 Customer data is as follows:
 
-`Inputs:`
+`Predictors:`
 ```
 Name
 e-mail
@@ -21,7 +21,7 @@ Time on Facebook
 Estimated Salary (derived from other parameters)
 ```
 
-`Outputs:`
+`Target:`
 ```
 Click (1: customer clicked on Ad, 0: Customer did not click on the Ad)
 ```
@@ -29,7 +29,7 @@ Click (1: customer clicked on Ad, 0: Customer did not click on the Ad)
 ### Environment Prerequisites
 `Jupyter Notebook` for Python scripting
 
-### Instruction
+### Instructions
 1. Downloaded the [dataset](https://github.com/zhenyu92/ML_Logistic_Regression_FB_Customer_Prediction/blob/master/Facebook_Ads_2.csv).
 2. Run and execute the [IPython](https://github.com/zhenyu92/ML_Logistic_Regression_FB_Customer_Prediction/blob/master/Logistic%20Regression%20-%20Customer_Prediction.ipynb).
     The following will be covered, and return a prediction.
