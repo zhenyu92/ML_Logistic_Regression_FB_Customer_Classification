@@ -1,5 +1,5 @@
 # A study on Facebook Customer Bahavior Prediction using Logistic Regression.
-This project is a part of the learning milestone of a Udemy course delivered by [365 Careers](https://www.udemy.com/python-sql-tableau-integrating-python-sql-and-tableau/). 
+This project is a part of the learning milestone of a Udemy course delivered by [SuperDataScience Team](https://www.udemy.com/machine-learning-classification/). 
 
 ### Author
 [Derrick Chan](https://github.com/zhenyu92)
